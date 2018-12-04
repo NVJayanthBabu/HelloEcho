@@ -1,1 +1,1 @@
-echo"Hello fromGc1:%date%:%time%"
+echo "Hello fromGc1:%date%:%time%"
