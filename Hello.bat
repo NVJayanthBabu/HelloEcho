@@ -1,2 +1,2 @@
 echo"Hello fromGc1:%date%:%time%"
-I am from RFE
+echo"I am from RFE"
